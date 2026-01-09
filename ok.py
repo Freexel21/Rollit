@@ -1,1 +1,1 @@
-print("Wassuuuuuuuuuuuuuuuuuuupppppppppppppppppppp, Alirght alright alright "
+print("Wassuuuuuuuuuuuuuuuuuuupppppppppppppppppppp, Alirght alright alright ")
